@@ -6,7 +6,7 @@
     "pdfjs-dist": "^3.4.120"
   },
   "name": "pdf-remove-blank",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Remove blank pages from a PDF based on contrast",
   "main": "removeblank.js",
   "devDependencies": {},
